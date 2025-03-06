@@ -33,7 +33,13 @@ The benefits of developing a detailed project schedule include; helps to complet
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem is effective in developing a more effective software solution as it enhances understanding and helps understand the root causes.
+
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+I would keep it simple, short and fun to understand by startig off with a hook eg a question to capture their attention, describe the problem by making it relatable and clear, give the solution that my software gives, use a live demo to show how it works then close with a call for action asking for what resources i need eg funding.
+
+
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
