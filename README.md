@@ -3,15 +3,15 @@
 # SE_DAY4_Software-Project-Management
 
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-Timely delivery is crucial to ensure the project is done in time to avoid financial constraints. To ensure that the project is done on time they should set up realistic deadlines, monitor expenses, allocate tasks and due regular debriefings for updates.
+Timely delivery is crucial to ensure the project is done in time to avoid financial constraints. To ensure that the project is done on time they should set up realistic deadlines, monitor expenses, allocate tasks and have regular debriefings for updates.
 
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
-Effective cost control contributes to the success of a software projec as it curbs budget overrun and ensures effective resource allocation. Some strategies to avoid budget overruns is to monitor resources regularly, set a budget beforehand and manage expenses eg considering hiring services instead of purchasing.
+Effective cost control contributes to the success of a software project as it curbs budget overrun and ensures effective resource allocation. Some strategies to avoid budget overruns is to monitor resources regularly, set a budget beforehand and manage expenses eg considering hiring services instead of purchasing whichever is cheaper and suitable.
 
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-Agile methodology breaks work into iterative steps that can be completed quickly and are done during sprints. Agile gives the team more flexibility  at each stage of SDLC to incorporate user feedback and make changes. Therefore agile is more flexible and has a faster release time as its advantage however agile requires more resources due to its continous monitoring and it is also prone to scope creep as it doesn't have clear boundaries.
+Agile methodology breaks work into iterative steps that can be completed quickly and are done during sprints. Agile gives the team more flexibility  at each stage of SDLC to incorporate user feedback and make changes. Therefore agile is more flexible and has a faster release time as its advantages however agile requires more resources due to its continous monitoring and it is also prone to scope creep as it doesn't have clear boundaries.
 Waterfall methodology is a sequential workflow meaning that a phase only begins once the previous one has been completed. These makes it easy to approach as there is alot of clarity on what is required and minimizes the risk of expanding project scope. However this makes it inflexible to changes during development and causes delays and lenghty timelines.
 
 
