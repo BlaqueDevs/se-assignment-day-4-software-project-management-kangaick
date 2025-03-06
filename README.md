@@ -32,6 +32,9 @@ Defining project scope contributes to the sucess of project planning as it defin
 The benefits of developing a detailed project schedule include; helps to complete the project in the set timeline, helps reduce delays in releasing, helps each member and team to realize their objectives and helps keep track of each task and prioritize them. Gantt charts are helpful in having a detailed project schedule as it helps to monitor projects and schedule tasks in graphs.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The core issues my software aims to address is price gouging by companies and my main target audience is women.
+
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 Clearly defining the problem is effective in developing a more effective software solution as it enhances understanding and helps understand the root causes.
 
@@ -41,5 +44,13 @@ I would keep it simple, short and fun to understand by startig off with a hook e
 
 
 ## 11. What are the main features or functionalities that make your software stand out?
+The main features include personalisation where customers can input their favourite stores to shop with an online presence as well as a price comparison feature to ensure you are getting the best deal.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+The current data shows that beauty is a growing field and women tend to shop mostly on discount days such as black friday however most companies tend to price gouge hence deceiving their customers. With the growth of internet as a source of information for where to buy beauty products my potential software will be benefitial.
+
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+It helps to adapt to market shifts and demand as well as make informed choices and mitigate risks when they arise.
+
+
